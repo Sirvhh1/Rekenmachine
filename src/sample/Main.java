@@ -14,6 +14,7 @@ public class Main extends Application {
         primaryStage.setTitle("Eenvoudige rekenmachine");
         primaryStage.setScene(new Scene(root, 600, 180));
         primaryStage.show();
+
     }
     
     public static void main(String[] args) {
